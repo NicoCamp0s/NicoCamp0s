@@ -13,8 +13,6 @@
 
 - 🤹🏻 Soft Skills: Team Work, dedication, autodidact, resilience, positive attitude  
   
-
- - ⚡ I’m currently working on <a href="https://front-gamezone-production.up.railway.app/" target="_blank"> GameZone </a>  
   
 
 <br/>  
