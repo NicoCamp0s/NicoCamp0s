@@ -72,13 +72,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-Si todo va bien, esta sección debería ser reemplazada automáticamente por una lista de tus publicaciones en el blog después de que confirmes tu archivo README.
-<!-- BLOG-POST-LIST:END -->  
-
-<br/> 
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=NicoCamp0s&&style=flat-square" align="center" />
 </div>  
