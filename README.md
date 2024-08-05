@@ -5,13 +5,13 @@
 ### <div align="center">👋 ¡Hola! Soy Nicolas Campos.</div>  
 
   
-Soy un apasionado desarrollador web Full Stack con un entusiasmo incansable por el aprendizaje y el crecimiento continuo. Mi fascinación por las nuevas tecnologías me impulsa a explorar, innovar y aplicar metodologías vanguardistas en mis proyectos. Mi objetivo es crear soluciones sólidas y versátiles que ofrezcan resultados excepcionales.
+ Soy un apasionado desarrollador web Full Stack con un entusiasmo incansable por el aprendizaje y el crecimiento continuo. Mi fascinación por las nuevas tecnologías me impulsa a explorar, innovar y aplicar metodologías vanguardistas en mis proyectos. Mi objetivo es crear soluciones sólidas y versátiles que ofrezcan resultados excepcionales.
   
   
 <br/>  
 
 
-## My Skill Set  
+## Mis habilidades  
 <table><tr><td valign="top" width="33%">
 
 
@@ -74,7 +74,7 @@ Soy un apasionado desarrollador web Full Stack con un entusiasmo incansable por 
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+Si todo va bien, esta sección debería ser reemplazada automáticamente por una lista de tus publicaciones en el blog después de que confirmes tu archivo README.
 <!-- BLOG-POST-LIST:END -->  
 
 <br/> 
