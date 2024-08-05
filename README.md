@@ -2,19 +2,12 @@
 </div>  
   
 
-### <div align="center">Hi. I'm Nicolas, a full-time full-stack developer 👨‍💻 working remotely </div>  
-  
+### <div align="center">👋 ¡Hola! Soy Nicolas Campos.</div>  
 
-- 🌎 I'm from Buenos Aires, Argentina  
   
-
-- 🌱 I’m currently researching new technologies  
-  
-
-- 🤹🏻 Soft Skills: Team Work, dedication, autodidact, resilience, positive attitude  
+Soy un apasionado desarrollador web Full Stack con un entusiasmo incansable por el aprendizaje y el crecimiento continuo. Mi fascinación por las nuevas tecnologías me impulsa a explorar, innovar y aplicar metodologías vanguardistas en mis proyectos. Mi objetivo es crear soluciones sólidas y versátiles que ofrezcan resultados excepcionales.
   
   
-
 <br/>  
 
 
@@ -59,7 +52,7 @@
 <br/>  
 
 
-## Connect with me  
+## Contactame 
 <div align="center">
 <a href="https://www.linkedin.com/in/nicolasncampos/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
